@@ -1,0 +1,6 @@
+{
+  "name": "RTD App - Android Messaging",
+  "description": "A modern green and white Android messaging application featuring phone OTP registration, RTD IDs, 1:1 and group chats, media messages, voice/video call screens, and admin controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
